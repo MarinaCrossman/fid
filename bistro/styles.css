@@ -1,0 +1,196 @@
+
+body{ 
+    background-color: #faf2e4;
+    margin: 0 10%;
+    font-family: sans-serif;
+    background: #faf2e4 url(images/blackgoose\ \(2\).png) no-repeat center 100px fixed;
+}
+
+
+h1{ 
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid #57b1dc;
+    margin-top: 30px;
+}
+
+h2{
+ color: #d1633c;
+ font-family: Georgia, serif;
+  
+  
+ }
+
+ h3{
+    color:  #F7941E;
+ }
+
+article header p{
+    font-size: 0.8em;
+    color: black;
+    padding-bottom: 1em;
+    
+}
+
+ footer{
+    border-top: 1px solid #57b1dc;
+    text-align: center; 
+    padding-top: 1em;
+}
+
+footer img{
+        width: 40px;
+        height: 40px;
+        margin-left: .5em;
+        margin-right: .5em;
+    }
+
+    .image-btn {
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+
+nav ul
+{
+list-style-type : none; 
+padding: 0; 
+display: flex; 
+justify-content: space-around; 
+background-color: #d1633c;
+} 
+
+nav a
+{
+color: white; 
+text-decoration: none; 
+padding: 10px 20px; 
+display: block; 
+}
+
+nav a:hover
+{
+background-color: #d77a58;
+}
+
+.home-page {
+    text-align: center;
+}
+
+.home-page p {
+    margin: 0 30%;
+}
+
+
+.news-page {
+    text-align: center;
+}
+
+.news-page p {
+    margin: 0 30%;
+}
+
+.news-page h2{
+    color: #d1633c;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+
+
+.menu-page header
+{
+    text-align: center;
+}
+
+.menu-page  nav a
+{
+color: white; 
+text-decoration: none; 
+padding: 10px 20px; 
+display: block; 
+}
+
+.menu-page nav a:hover
+{
+background-color: #d77a58;
+}
+
+.menu-page #info a {
+    text-decoration: none;
+  }
+  
+ .menu-page #info a:link {
+    color: #d77a58;
+  }
+  
+  .menu-page #info a:visited {
+    color: #57b1dc;
+  }
+  
+  .menu-page #info a:hover {
+    color: orangered;
+  }
+  
+ .menu-page #info a:active {
+    color: orangered;
+    background-color: white;
+  }
+  
+ .menu-page h2 {
+    color: #d1633c;
+    font-family: Georgia, serif;
+    text-align: center;
+    
+  }
+ .menu-page dt {
+    font-weight: bold;
+    text-align: center;
+  }
+
+ .menu-page dd {
+    text-align: center;
+    }
+
+ .menu-page strong {
+    font-style: italic;
+  }
+ .menu-page ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+  }
+ .menu-page #info p {
+    font-style: italic;
+  }
+ .menu-page .price {
+    font-family: Georgia, serif;
+    font-style: italic;
+  }
+ .menu-page p.warning, sup {
+    font-size: small;
+  }
+ .menu-page .label {
+    font-weight: bold;
+    font-variant: small-caps;
+    font-style: normal;
+  }
+  
+ .menu-page h2 + p {
+    text-align: center;
+    font-style: italic;
+  }
+  
+.gallery-page{
+   text-align: center;
+}
+
+.gallery-page p{
+    margin: 0 20%;
+}
+
+.contact-page{
+    text-align: center;
+}
